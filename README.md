@@ -1,0 +1,1 @@
+This repository demonstrates a common Java programming error:  an ArrayIndexOutOfBoundsException.  The `BuggyArrayAccess.java` file contains code that attempts to access an array element beyond its defined size. The corrected version is in `CorrectedArrayAccess.java`, showing the simple fix.
